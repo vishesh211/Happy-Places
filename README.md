@@ -9,4 +9,4 @@ An Application in which you can add all the Dream Destination that you have been
 
 
 
-<img src="images/1645723750748.jpg" width="200">              <img src="images/1645723750741.jpg" width="200">
+<img src="images/1645723750748.jpg" width="200">                                                      <img src="images/1645723750741.jpg" width="200">
